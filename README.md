@@ -17,7 +17,7 @@ SSD ETIKET // Bu komutun anlamı bu komuttan önce yapılan işlemin sonucu sıf
 SN ETIKET // Bu komutun anlamı bu komuttan önce yapılan işlemin sonucu negatifse, ETIKET olarak verilen yere gider.<br>
 SP ETIKET // Bu komutun anlamı bu komuttan önce yapılan işlemin sonucu pozitifse, ETIKET olarak verilen yere gider.<br>
 <br>
-Verilen komut kümesinde TOP, CRP, CIK, BOL, VE, VEYA komutlarında operandlarından ilki kayıtçı olması zorunludur. Örnek olarak<br>
+Verilen komut kümesinde TOP, CRP, CIK, BOL, VE, VEYA komutlarında operandlarından ilki kayıtçı olması zorunludur.<br>
 TOP AX,BX // Bu komutta her iki operand kayıtçıdır.<br>
 TOP AX,125 // Bu komutta birinci operand AX kayıtçısı ve ikincisi ise normal literaldir.<br>
 TOP AX,[ADRES] // Bu komutta birinci operand AX kayıtçısı ve ikincisi ise RAM’in ADRES yeridir.<br>
