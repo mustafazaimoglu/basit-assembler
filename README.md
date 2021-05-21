@@ -1,6 +1,6 @@
 # basit-assembler
 
-ASSEMBLER DERLEYİCİSİ
+ASSEMBLER DERLEYİCİSİ <br>
 Programlama Dilleri (derleyiciler) giriş olarak yazılan bir programın kaynak kodunu alır (kodun doğru yazıldığı varsayılır) ve ondan sonra kaynak kod program ne iş yapıyorsa, kendiside aynı işi yapan programı yazar. Bu düşünce ile 8-bitlik bir El-Ceziri işlemcisinin olduğu varsayılsın. Bu işlemcinin RAM 8-bitlik 2 KB’lık belleği (hafıza) bulunmaktadır.
 Aynı zamanda üzerinde AX, BX, CX, DX şeklin dört tane 8-bitlik kayıtçı (register) bulunmaktadır.
 Bu işlemcinin komut kümesi aşağıdaki listede verilmiştir.
