@@ -1,12 +1,5 @@
 /*
-    Mustafa ZAİMOĞLU
-    02180201066 - 2.Öğretim
-
-    Şartsız dallanma komutları da dahil olmak üzere çalışmaktadır.
-    RAM'a veri yüklemesi yapabilmek için sadece HRK komutunda sınırlı olmak üzere ilk değer [XXX] (adresleme) olabilir.
-
-    HRK [71],28
-    71.Adrese 28 yükler.
+    Coded By MKZ
 */
 
 #include <stdio.h>
