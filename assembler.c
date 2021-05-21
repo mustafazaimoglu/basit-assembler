@@ -1,5 +1,6 @@
 /*
     Coded By MKZ
+	RAM'a veri yüklemesi yapabilmek için sadece HRK komutunda sınırlı olmak üzere ilk değer [XXX] (adresleme) olabilir.
 */
 
 #include <stdio.h>
